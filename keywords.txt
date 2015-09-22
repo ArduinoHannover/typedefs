@@ -1,0 +1,6 @@
+uint8_t		KEYWORD1
+int8_t		KEYWORD1
+uint16_t	KEYWORD1
+int16_t		KEYWORD1
+uint32_t	KEYWORD1
+int32_t		KEYWORD1
